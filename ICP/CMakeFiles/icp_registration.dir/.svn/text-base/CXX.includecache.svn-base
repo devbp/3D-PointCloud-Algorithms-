@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/Point cloud codes/ICP/icp_registration.cpp
+iostream
+-
+pcl-1.7/pcl/io/pcd_io.h
+-
+pcl-1.7/pcl/point_types.h
+-
+pcl-1.7/pcl/registration/icp.h
+-
+pcl-1.7/pcl/visualization/pcl_visualizer.h
+-
+boost/thread/thread.hpp
+-
+pcl-1.7/pcl/visualization/point_cloud_color_handlers.h
+-
+pcl-1.7/pcl/registration/correspondence_estimation.h
+-
+pcl-1.7/pcl/registration/registration.h
+-
+pcl-1.7/pcl/correspondence.h
+-
+pcl-1.7/pcl/registration/transformation_estimation_svd.h
+-
+pcl-1.7/pcl/registration/correspondence_rejection_sample_consensus.h
+-
+pcl-1.7/pcl/features/normal_3d.h
+-
+pcl-1.7/pcl/registration/ia_ransac.h
+-
+pcl-1.7/pcl/features/fpfh.h
+-
+

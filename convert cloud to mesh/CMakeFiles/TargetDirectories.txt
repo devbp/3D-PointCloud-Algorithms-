@@ -1,0 +1,1 @@
+/home/poudel/Point-cloud-codes/convert cloud to mesh/CMakeFiles/cloudtomesh.dir

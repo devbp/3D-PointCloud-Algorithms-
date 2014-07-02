@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/Point cloud codes/Range Image/rangeimage.cpp
+pcl-1.7/pcl/range_image/range_image.h
+-
+pcl-1.7/pcl/io/pcd_io.h
+-
+pcl-1.7/pcl/point_types.h
+-
+pcl-1.7/pcl/visualization/range_image_visualizer.h
+-
+

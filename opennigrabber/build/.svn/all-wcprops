@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pointcloudprcoessing/!svn/ver/5/trunk/Point-cloud-codes/opennigrabber/build
+END
+CMakeCache.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pointcloudprcoessing/!svn/ver/5/trunk/Point-cloud-codes/opennigrabber/build/CMakeCache.txt
+END
+kinectgrabber
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pointcloudprcoessing/!svn/ver/5/trunk/Point-cloud-codes/opennigrabber/build/kinectgrabber
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pointcloudprcoessing/!svn/ver/5/trunk/Point-cloud-codes/opennigrabber/build/cmake_install.cmake
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pointcloudprcoessing/!svn/ver/5/trunk/Point-cloud-codes/opennigrabber/build/Makefile
+END

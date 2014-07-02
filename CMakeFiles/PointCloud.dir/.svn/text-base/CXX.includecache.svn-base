@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/Point cloud codes/displaypointcloud.cpp
+pcl-1.6/pcl/visualization/cloud_viewer.h
+-
+iostream
+-
+pcl-1.6/pcl/io/io.h
+-
+pcl-1.6/pcl/io/pcd_io.h
+-
+pcl-1.6/pcl/point_cloud.h
+-
+pcl-1.6/pcl/point_types.h
+-
+cmath
+-
+

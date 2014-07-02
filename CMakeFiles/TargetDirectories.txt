@@ -1,0 +1,2 @@
+/home/poudel/Point cloud codes/CMakeFiles/PointCloud.dir
+/home/poudel/Point cloud codes/CMakeFiles/cloud_viewer.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/Point-cloud-codes/test view/visualizer.cpp
+iostream
+-
+pcl-1.7/pcl/io/pcd_io.h
+-
+pcl-1.7/pcl/point_types.h
+-
+pcl-1.7/pcl/visualization/pcl_visualizer.h
+-
+boost/thread/thread.hpp
+-
+boost/shared_ptr.hpp
+-
+pcl-1.7/pcl/visualization/point_picking_event.h
+-
+pcl-1.7/pcl/visualization/mouse_event.h
+-
+

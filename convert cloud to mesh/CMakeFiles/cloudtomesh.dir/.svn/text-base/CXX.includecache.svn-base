@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/Point-cloud-codes/convert cloud to mesh/cloudtomesh.cpp
+pcl-1.7/pcl/point_types.h
+-
+pcl-1.7/pcl/io/pcd_io.h
+-
+pcl-1.7/pcl/kdtree/kdtree_flann.h
+-
+pcl-1.7/pcl/features/normal_3d.h
+-
+pcl-1.7/pcl/surface/gp3.h
+-
+pcl-1.7/pcl/visualization/pcl_visualizer.h
+-
+pcl-1.7/pcl/surface/mls.h
+-
+ctime
+-
+boost/progress.hpp
+-
+

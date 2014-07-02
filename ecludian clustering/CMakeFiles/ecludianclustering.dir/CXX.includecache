@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/Point cloud codes/ecludian clustering/ecludianclustering.cpp
+pcl-1.7/pcl/point_types.h
+-
+pcl-1.7/pcl/io/pcd_io.h
+-
+pcl-1.7/pcl/kdtree/kdtree.h
+-
+pcl-1.7/pcl/filters/extract_indices.h
+-
+pcl-1.7/pcl/segmentation/extract_clusters.h
+-
+
